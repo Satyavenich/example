@@ -1,1 +1,2 @@
-Iam creating a webpage![pexels-cottonbro-studio-4088009](https://github.com/Satyavenich/example/assets/153258019/349f7c72-fc1c-44ab-a9eb-66a09f9e885b)
+Iam creating a webpage
+![images (5)](https://github.com/Satyavenich/example/assets/153258019/b20a593c-9757-4f85-85ec-7bdd2f7541ee)
